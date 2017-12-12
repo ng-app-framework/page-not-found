@@ -1,0 +1,16 @@
+<div class="container container-fluid">
+    <div class="widget-body text-center">
+        <div class="row">
+
+            <div class="col-12">
+                <img [src]="cautionImage | safeUrl"/>
+            </div>
+            <div class="col-12">
+                <h1 [innerHTML]="headerText | safeHtml"></h1>
+            </div>
+            <div class="col-12">
+                <p [innerHTML]="messageText | safeHtml"></p>
+            </div>
+        </div>
+    </div>
+</div>
