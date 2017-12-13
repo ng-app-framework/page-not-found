@@ -22,7 +22,7 @@
     "@angular/common": "^5.1.0",
     "@angular/core": "^5.1.0",
     "@ng-app-framework/core": "^1.1.1",
-    "@ng-app-framework/safe": "^1.1.1",
+    "@ng-app-framework/safe": "^1.1.6",
     "@ng-app-framework/widget": "^1.1.1",
     "bootstrap": "^3.3.7",
     "font-awesome": "^4.7.0",
